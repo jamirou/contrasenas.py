@@ -14,11 +14,11 @@ Este es un proyecto que implementa un generador de contraseñas desarrollado con
 
 ## Tecnologías utilizadas
 
-- Python ![Python Icon](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-- Flask ![Flask Icon](https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg)
-- HTML ![HTML Icon](https://upload.wikimedia.org/wikipedia/commons/8/80/HTML5_logo_resized.svg)
-- CSS ![CSS Icon](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
-- JavaScript ![JavaScript Icon](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
+- Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="24">
+- Flask <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="24">
+- HTML <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/HTML5_logo_resized.svg" width="24">
+- CSS <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="24">
+- JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="24">
 
 
 ## Cómo ejecutar la aplicación
