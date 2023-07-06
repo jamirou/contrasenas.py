@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Generador de Contraseñas</title>
+    <link rel="stylesheet" type="text/css" href="../static/styles.css">
+    <script>
+        function resetPasswordDisplay() {
+            document.getElementById("password-display").innerHTML = "";
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>Generador de Contraseñas</h1>
+        <form action="/generar" method="POST">
+            <label for="longitud">Longitud:</label>
+            <input type="number" name="longitud" id="longitud" min="6" max="30" required>
+
+            <label for="letras">Incluir Letras:</label>
+            <input type="checkbox" name="letras" id="letras">
+
+            <label for="numeros">Incluir Números:</label>
+            <input type="checkbox" name="numeros" id="numeros">
+
+            <label for="simbolos">Incluir Símbolos:</label>
+            <input type="checkbox" name="simbolos" id="simbolos">
+
+            <input type="submit" value="Generar Contraseña">
+            <input type="button" value="Reiniciar" onclick="resetPasswordDisplay()">
+        </form>
+
+        <div class="password-display" id="password-display">
+            {% if error %}
+                <p class="error">{{ error }}</p>
+            {% else %}
+                <h2>Contraseña Generada:</h2>
+                <p>{{ contraseña }}</p>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>

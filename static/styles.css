@@ -1,0 +1,50 @@
+.container {
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 9%;
+    padding: 20px;
+    text-align: center;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+h1 {
+    margin-top: 0;
+    font-size: 24px;
+}
+
+form {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+label, input {
+    margin-bottom: 10px;
+}
+
+input[type="submit"] {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.password-display {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.password-display h2 {
+    margin-top: 0;
+    font-size: 20px;
+}
+
+.password-display p {
+    font-weight: bold;
+    font-size: 18px;
+}
