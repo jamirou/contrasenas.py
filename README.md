@@ -14,11 +14,12 @@ Este es un proyecto que implementa un generador de contraseñas desarrollado con
 
 ## Tecnologías utilizadas
 
-- Python
-- Flask (framework de desarrollo web en Python)
-- HTML
-- CSS
-- JavaScript (incorporado directamente en el archivo HTML)
+- Python ![Python Icon](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+- Flask ![Flask Icon](https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg)
+- HTML ![HTML Icon](https://upload.wikimedia.org/wikipedia/commons/8/80/HTML5_logo_resized.svg)
+- CSS ![CSS Icon](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
+- JavaScript ![JavaScript Icon](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
+
 
 ## Cómo ejecutar la aplicación
 
