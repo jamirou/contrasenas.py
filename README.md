@@ -1,6 +1,6 @@
 # Generador de Contraseñas
 
-Este es un proyecto que implementa un generador de contraseñas seguro desarrollado con Python y Flask. La aplicación web permite a los usuarios generar contraseñas aleatorias con opciones personalizables.
+Este es un proyecto que implementa un generador de contraseñas desarrollado con Python y Flask. La aplicación web permite a los usuarios generar contraseñas aleatorias con opciones personalizables.
 
 ![Captura de Generador](captura-de-generador.png)
 
